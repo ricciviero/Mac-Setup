@@ -12,7 +12,7 @@ Welcome to my Mac setup configuration repository! This project contains the scri
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/my-mac-setup.git
+   git clone https://github.com/ricciviero/my-mac-setup.git
    cd my-mac-setup
 
 	2.	Make the Script Executable:
